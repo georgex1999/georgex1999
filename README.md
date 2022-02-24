@@ -1,7 +1,7 @@
 ### Hi there, I'm George 👋
 
 - 🔭 I’m currently working on ...
-UX and Interface Design at Poppulo
+Product Design at Intercom
 
 - 🌱 I’m currently learning ...
 How to Javascript better
